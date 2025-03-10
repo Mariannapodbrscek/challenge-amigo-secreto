@@ -94,7 +94,7 @@ Marianna Podbrscek: 👩‍💻 Desarrolladora principal.
 
 ### 📝 **Licencia**
 
-Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
+Este proyecto está bajo la licencia ORACLE ONE y ALURA LATAM. Consulta el archivo LICENSE para más detalles.
 
 ### 🎨 **Estética del Proyecto**
 
