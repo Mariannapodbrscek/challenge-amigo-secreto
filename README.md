@@ -13,7 +13,7 @@
 ## 🏷 **Índice**:
 
 - [Descripción del Proyecto](https://github.com/Mariannapodbrscek/challenge-amigo-secreto/blob/main/README.md#-descripci%C3%B3n-del-proyecto)
-- [Estado del Proyecto](https://github.com/Mariannapodbrscek/challenge-amigo-secreto/blob/main/README.md#-descripci%C3%B3n-del-proyecto)
+- [Estado del Proyecto]()
 - [Características de la Aplicación y Demostración]()
 - [Demonstracion visual](https://github.com/Mariannapodbrscek/challenge-amigo-secreto/blob/main/README.md#-descripci%C3%B3n-del-proyecto)
 - [Acceso al Proyecto](https://github.com/Mariannapodbrscek/challenge-amigo-secreto/blob/main/README.md#-descripci%C3%B3n-del-proyecto)
