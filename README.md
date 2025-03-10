@@ -66,6 +66,7 @@ Si intentas presionar el botón 'Adicionar' sin haber escrito un nombre, te apar
 ![Mi GIF](https://giphy.com/gifs/oracle-mariannapodbrscekrocca-challengeamigosecreto-7DR5bnrvwYYjZREtjG) 
 
 
+
 ---
 
 ## 🚀 **Acceso al Proyecto**
