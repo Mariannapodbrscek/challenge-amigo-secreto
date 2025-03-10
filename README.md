@@ -14,9 +14,9 @@
 
 - [Descripción del Proyecto](https://github.com/Mariannapodbrscek/challenge-amigo-secreto/blob/main/README.md#-descripci%C3%B3n-del-proyecto)
 - [Estado del Proyecto](https://github.com/Mariannapodbrscek/challenge-amigo-secreto/blob/main/README.md#-estado-del-proyecto)
-- [Características de la Aplicación y Demostración]()
-- [Demonstracion visual]()
-- [Acceso al Proyecto]()
+- [Características de la Aplicación y Demostración](https://github.com/Mariannapodbrscek/challenge-amigo-secreto/blob/main/README.md#-caracter%C3%ADsticas-de-la-aplicaci%C3%B3n)
+- [Demonstracion visual](https://github.com/Mariannapodbrscek/challenge-amigo-secreto/blob/main/README.md#-demostraci%C3%B3n-visual)
+- [Acceso al Proyecto](https://github.com/Mariannapodbrscek/challenge-amigo-secreto/blob/main/README.md#-acceso-al-proyecto)
 - [Tecnologías Utilizadas]()
 - [Personas Contribuyentes]()
 - [Licencia]()
@@ -76,18 +76,22 @@ Si intentas presionar el botón 'Adicionar' sin haber escrito un nombre, te apar
    ```bash
    git clone https://github.com/mariannapodbrscek/challenge-amigo-secreto.git
 
-Tecnologías Utilizadas:
-HTML5: Estructura básica de la página.
-CSS3: Estilos modernos con colores pastel y diseño responsivo.
-JavaScript: Lógica interactiva para agregar, eliminar y sortear amigos.
-🤝 Personas Contribuyentes:
-Marianna Podbrscek: Desarrolladora principal.
-📝 Licencia
+### 🚀 **Tecnologías Utilizadas**
+
+- HTML5: 📜 Estructura básica de la página.
+- CSS3: 🎨 Estilos modernos con colores pastel y diseño responsivo.
+- JavaScript: ⚡ Lógica interactiva para agregar, eliminar y sortear amigos.
+
+### 🤝 **Personas Contribuyentes**
+
+Marianna Podbrscek: 👩‍💻 Desarrolladora principal.
+
+### 📝 **Licencia**
+
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
 
-🎨 Estética del Proyecto
-La paleta de colores del proyecto está basada en tonos suaves de fucsia, naranja claro, y verde menta, lo que da una sensación fresca y moderna, perfecta para una experiencia de usuario agradable. Los botones son llamativos, con efectos de hover que hacen que interactuar con la aplicación sea más divertido.
+###🎨 **Estética del Proyecto**
 
-👀 Pantallazo del Proyecto:
+La paleta de colores del proyecto está basada en tonos suaves de de fucsia, naranja claro, y verde menta. Esto genera una sensación fresca y moderna, perfecta para una experiencia de usuario agradable. ✨ Los botones son llamativos, con efectos de hover 🖱️ que hacen que interactuar con la aplicación sea más divertido. 🎭
 
 ![Mi GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXFsZHcxYzVxaWV6cmZtbW9udXZvNmhkcjEwbHdkYW5hMmNpMmRmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DDjKkrKzyzfnbwKXrc/giphy.gif)
