@@ -88,3 +88,6 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más 
 La paleta de colores del proyecto está basada en tonos suaves de fucsia, naranja claro, y verde menta, lo que da una sensación fresca y moderna, perfecta para una experiencia de usuario agradable. Los botones son llamativos, con efectos de hover que hacen que interactuar con la aplicación sea más divertido.
 
 👀 Pantallazo del Proyecto:
+
+
+![Mi GIF] https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXFsZHcxYzVxaWV6cmZtbW9udXZvNmhkcjEwbHdkYW5hMmNpMmRmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DDjKkrKzyzfnbwKXrc/giphy.gif
