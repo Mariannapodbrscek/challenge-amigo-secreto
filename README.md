@@ -125,8 +125,14 @@ Esta es la vista que se muestra cuando el usuario ingresa los diferentes partici
 
 Si un usuario resulta ser el ganador del sorteo, se le presenta un botón que le permitirá saber a qué número de teléfono debe contactarse en caso de haber ganado. El mensaje en la interfaz indicará: "¡Felicidades!" Además, el sistema proporcionará un número de teléfono al cual llamar para reclamar su premio:
 
-![Image Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXFsZHcxYzVxaWV6cmZtbW9udXZvNmhkcjEwbHdkYW5hMmNpMmRmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DDjKkrKzyzfnbwKXrc/giphy.gif)
+
 
 Si el usuario intenta presionar el botón de "Adicionar" sin haber ingresado un nombre, aparecerá una alerta con el mensaje: "Por favor, ingresa un nombre." El sistema no permitirá proceder con el sorteo hasta que el usuario ingrese al menos tres nombres de participantes:
 ![Image Alt Text](https://i.imgur.com/VDquxYh.png)
 
+🎉 Badge animada del Challenge del amigo secreto 🎉"
+
+![Image Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXFsZHcxYzVxaWV6cmZtbW9udXZvNmhkcjEwbHdkYW5hMmNpMmRmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DDjKkrKzyzfnbwKXrc/giphy.gif)
+
+📸 Badge PNG 📸
+![Image Alt Text](https://i.imgur.com/74RDMyM.png)
