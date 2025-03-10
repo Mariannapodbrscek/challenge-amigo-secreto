@@ -47,7 +47,7 @@
   
 ### 🌈 **Demostración Visual**:
 
-![Demo](ruta/a/demo.gif)
+![Demo]([https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTRubHMwcXAybWVnZGZvMW1jMHliZWRhaDl3MGxneXl2MjE5d2huZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ld6nY6Gq6qTxGdqx4y/giphy.gif]
 
 ---
 
