@@ -4,6 +4,8 @@
 [Visualiza mi repositorio](https://github.com/Mariannapodbrscek/challenge-amigo-secreto)
 ## Badges
 
+![Mi GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVwY29iZHJpdHF4MHluNTdsaml0OG15MjFiM29oMzZwdm10amEzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mK9l0vcO69YC4Y9g9M/giphy.gif)
+
 ![Estado del Proyecto](https://img.shields.io/badge/STATUS-%20COMPLETADO-brightgreen)
 ![Licencia](https://img.shields.io/badge/licencia-MIT-blue)
 ![Stars del Proyecto](https://img.shields.io/github/stars/mariannapodbrscek/challenge-amigo-secreto?style=social)
