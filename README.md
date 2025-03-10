@@ -14,7 +14,7 @@
 
 - [Descripción del Proyecto](https://github.com/Mariannapodbrscek/challenge-amigo-secreto/blob/main/README.md#-descripci%C3%B3n-del-proyecto)
 - [Estado del Proyecto](https://github.com/Mariannapodbrscek/challenge-amigo-secreto/blob/main/README.md#-descripci%C3%B3n-del-proyecto)
-- [Características de la Aplicación y Demostración](#características-de-la-aplicación-y-demostración)
+- [Características de la Aplicación y Demostración](https://github.com/Mariannapodbrscek/challenge-amigo-secreto/blob/main/README.md#-descripci%C3%B3n-del-proyecto)
 - [Acceso al Proyecto](#acceso-al-proyecto)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Personas Contribuyentes](#personas-contribuyentes)
