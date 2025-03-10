@@ -59,7 +59,7 @@ Este proyecto es una aplicación web interactiva desarrollada como parte del **C
 
 ## Estado del Proyecto
 
-🚧 Proyecto en construcción 🚧
+🚧 Proyecto FINALIZADO 🚧
 
 ## Características de la Aplicación y Demostración
 
