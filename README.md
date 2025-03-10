@@ -1,9 +1,7 @@
-# 🎉 **Challenge Amigo Secreto** 🎉
+# 🎉 **Challenge Amigo Secreto** 🎉 Dale una ojeada a mi trabajo:
+![Mi GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHV0cnpmdHR5bzdybXhhYm1jcWZqbWJ2Z2dwYnZrYmNhaHdkOTNnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MTJILjQosXcLSoDG5J/giphy.gif)
 
 [Visualiza mi repositorio](https://github.com/Mariannapodbrscek/challenge-amigo-secreto)
-
-![Amigo Secreto] ![Mi GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHV0cnpmdHR5bzdybXhhYm1jcWZqbWJ2Z2dwYnZrYmNhaHdkOTNnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MTJILjQosXcLSoDG5J/giphy.gif)
-
 ## Badges
 
 ![Estado del Proyecto](https://img.shields.io/badge/STATUS-%20COMPLETADO-brightgreen)
