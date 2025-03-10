@@ -23,7 +23,7 @@
 - [Personas Contribuyentes](https://github.com/Mariannapodbrscek/challenge-amigo-secreto/blob/main/README.md#-personas-contribuyentes)
 - [Licencia](https://github.com/Mariannapodbrscek/challenge-amigo-secreto/blob/main/README.md#-licencia)
 - [Estética del Proyecto](https://github.com/Mariannapodbrscek/challenge-amigo-secreto/blob/main/README.md#-est%C3%A9tica-del-proyecto)
-- [Pantallazos del proyecto]()
+- [Pantallazos del proyecto](https://github.com/Mariannapodbrscek/challenge-amigo-secreto/blob/main/README.md#-pantallazos-del-proyecto)
 ---
 
 ## 📖 **Descripción del Proyecto**
