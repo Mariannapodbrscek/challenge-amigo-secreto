@@ -101,10 +101,32 @@ Este proyecto está bajo la licencia ORACLE ONE y ALURA LATAM. Consulta el archi
 La paleta de colores del proyecto está basada en tonos suaves de de fucsia, naranja claro, y verde menta. Esto genera una sensación fresca y moderna, perfecta para una experiencia de usuario agradable. ✨ Los botones son llamativos, con efectos de hover 🖱️ que hacen que interactuar con la aplicación sea más divertido. 🎭
 
 ## 📸 **Pantallazos del Proyecto** 
+Aquí puedes ver algunas capturas de pantalla del proyecto:  
+
+Así se presentaría la vista de la página principal de mi proyecto sin que se hayan ingresado datos o sin interacción del usuario.
 
 ![Image Alt Text](https://i.imgur.com/jEbgV0C.png)
 
-Aquí puedes ver algunas capturas de pantalla del proyecto:  
-![Mi GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXFsZHcxYzVxaWV6cmZtbW9udXZvNmhkcjEwbHdkYW5hMmNpMmRmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DDjKkrKzyzfnbwKXrc/giphy.gif)
+Estas capturas muestran el proceso de ingreso de participantes en el sorteo. Al momento de registrar los participantes, el sistema genera alertas en tiempo real para informarte sobre cuántos participantes más necesitas para completar la lista y poder realizar el sorteo.
 
+Cuando te faltan 2 participantes, el mensaje será en plural, indicando que faltan más de uno:
+"Te faltan 2 amigos para sortear."
+
+![Image Alt Text](https://i.imgur.com/XccYrfU.png)
+
+Cuando te falta 1 participante, el mensaje se ajusta al singular, señalando que solo queda una persona por ingresar:
+"Te falta 1 amigo para sortear."
+
+![Image Alt Text](https://i.imgur.com/Bsovq7l.png)
+
+Esta es la vista que se muestra cuando el usuario ingresa los diferentes participantes en el sorteo del Challenge del amigo secreto. En caso de que haya algún error, el usuario tiene la opción de borrar un solo participante y mantener el resto sin afectar los datos ya ingresados. Además, si lo desea, también tiene la opción de reiniciar completamente el juego, lo que eliminaría todos los participantes y comenzaría desde cero.
+
+![Image Alt Text](https://i.imgur.com/rfxdceY.png)
+
+Si un usuario resulta ser el ganador del sorteo, se le presenta un botón que le permitirá saber a qué número de teléfono debe contactarse en caso de haber ganado. El mensaje en la interfaz indicará: "¡Felicidades!" Además, el sistema proporcionará un número de teléfono al cual llamar para reclamar su premio:
+
+![Image Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXFsZHcxYzVxaWV6cmZtbW9udXZvNmhkcjEwbHdkYW5hMmNpMmRmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DDjKkrKzyzfnbwKXrc/giphy.gif)
+
+Si el usuario intenta presionar el botón de "Adicionar" sin haber ingresado un nombre, aparecerá una alerta con el mensaje: "Por favor, ingresa un nombre." El sistema no permitirá proceder con el sorteo hasta que el usuario ingrese al menos tres nombres de participantes:
+![Image Alt Text](https://i.imgur.com/VDquxYh.png)
 
