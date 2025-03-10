@@ -46,7 +46,8 @@
 ### 🌈 **Demostración Visual**:
 
 Puedo sortear más de una vez mientras queden al menos tres participantes en el sorteo. Puedo hacer clic en el botón 'Reiniciar' si deseas reiniciar el sorteo e ingresar los nombres desde cero:
-![Mi GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTRubHMwcXAybWVnZGZvMW1jMHliZWRhaDl3MGxneXl2MjE5d2huZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ld6nY6Gq6qTxGdqx4y/giphy.gif)
+![Mi GIF]
+(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTRubHMwcXAybWVnZGZvMW1jMHliZWRhaDl3MGxneXl2MjE5d2huZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ld6nY6Gq6qTxGdqx4y/giphy.gif)
 
 Puedes borrar los nombres con el botón de la 'x' si te equivocas:
 ![Mi GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXNrd2R2Z2Rob2Nnd3kyOGVpbmJoaWhjOHF3aDJ0cGV2Mm9jMWN1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CNvzj7fNTHqkVnLRmv/giphy.gif)
