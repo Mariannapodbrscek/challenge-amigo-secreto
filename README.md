@@ -12,9 +12,7 @@
 
 ---
 ## 🏷 **Link Deploy**: 
-[Visualiza mi deploy]
-
-(https://mariannapodbrscek.github.io/challenge-amigo-secreto/](https://mariannapodbrscek.github.io/challenge-amigo-secreto/)
+[Visualiza mi deploy](https://mariannapodbrscek.github.io/challenge-amigo-secreto/]
 
 
 ## 🏷 **Índice**:
