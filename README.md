@@ -135,4 +135,5 @@ Si el usuario intenta presionar el botón de "Adicionar" sin haber ingresado un 
 ![Image Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXFsZHcxYzVxaWV6cmZtbW9udXZvNmhkcjEwbHdkYW5hMmNpMmRmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DDjKkrKzyzfnbwKXrc/giphy.gif)
 
 📸 Badge PNG 📸
+
 ![Image Alt Text](https://i.imgur.com/74RDMyM.png)
