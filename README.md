@@ -89,5 +89,4 @@ La paleta de colores del proyecto está basada en tonos suaves de fucsia, naranj
 
 👀 Pantallazo del Proyecto:
 
-
-![Mi GIF] https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXFsZHcxYzVxaWV6cmZtbW9udXZvNmhkcjEwbHdkYW5hMmNpMmRmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DDjKkrKzyzfnbwKXrc/giphy.gif
+![Mi GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXFsZHcxYzVxaWV6cmZtbW9udXZvNmhkcjEwbHdkYW5hMmNpMmRmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DDjKkrKzyzfnbwKXrc/giphy.gif)
