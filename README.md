@@ -11,8 +11,11 @@
 ![Stars del Proyecto](https://img.shields.io/github/stars/mariannapodbrscek/challenge-amigo-secreto?style=social)
 
 ---
-## 🏷 **Link Deploy**: 
+## 🏷 **Link Deploy Version Web**: 
 [Visualiza mi deploy](https://mariannapodbrscek.github.io/challenge-amigo-secreto)
+
+## 🏷 **Link Deploy Version Mobil**: 
+[Visualiza mi deploy](https://mariannapodbrscek.github.io/challenge-amigo-secreto-version-mobil/)
 
 
 ## 🏷 **Índice**:
