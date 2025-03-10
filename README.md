@@ -22,7 +22,7 @@
 - [Tecnologías Utilizadas](https://github.com/Mariannapodbrscek/challenge-amigo-secreto/blob/main/README.md#-tecnolog%C3%ADas-utilizadas)
 - [Personas Contribuyentes](https://github.com/Mariannapodbrscek/challenge-amigo-secreto/blob/main/README.md#-personas-contribuyentes)
 - [Licencia](https://github.com/Mariannapodbrscek/challenge-amigo-secreto/blob/main/README.md#-licencia)
-- [Estética del Proyecto]()
+- [Estética del Proyecto](https://github.com/Mariannapodbrscek/challenge-amigo-secreto/blob/main/README.md#-est%C3%A9tica-del-proyecto)
 - [Pantallazos del proyecto]()
 ---
 
@@ -97,6 +97,9 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más 
 
 La paleta de colores del proyecto está basada en tonos suaves de de fucsia, naranja claro, y verde menta. Esto genera una sensación fresca y moderna, perfecta para una experiencia de usuario agradable. ✨ Los botones son llamativos, con efectos de hover 🖱️ que hacen que interactuar con la aplicación sea más divertido. 🎭
 
+## 📸 Pantallazos del Proyecto  
+
+Aquí puedes ver algunas capturas de pantalla del proyecto:  
 
 
 ![Mi GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXFsZHcxYzVxaWV6cmZtbW9udXZvNmhkcjEwbHdkYW5hMmNpMmRmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DDjKkrKzyzfnbwKXrc/giphy.gif)
