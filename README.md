@@ -3,6 +3,36 @@
 
 <a href="https://github.com/Mariannapodbrscek/challenge-amigo-secreto">Visualiza mi repositorio</a>
 
+
+# Proyecto Finalizado
+
+¡Bienvenido a mi proyecto! 🎉
+
+Este es el proyecto **finalizado** que he desarrollado con mucho esfuerzo y dedicación. Agradezco tu interés y espero que disfrutes de los resultados.
+
+## Descripción 📖
+
+Este proyecto tiene como objetivo proporcionar una solución innovadora y accesible utilizando tecnologías modernas. El diseño está pensado para ser intuitivo, y los usuarios pueden interactuar fácilmente con los elementos de la página.
+
+## Funcionalidades 🔧
+
+- Diseño responsivo para todos los dispositivos.
+- Interactividad mejorada con botones llamativos y fáciles de usar.
+- Estilo visual limpio, utilizando colores pastel para hacer la experiencia más agradable.
+  
+## Pantallazo 👀
+
+![Pantallazo del Proyecto](https://via.placeholder.com/800x400.png?text=Pantallazo+del+Proyecto)
+
+---
+
+## Cómo Ejecutar el Proyecto 🚀
+
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/tuusuario/tu-repositorio.git
+
+
 <h1 align="center">Challenge Amigo Secreto 🎉🎉</h1>
 
 ![Amigo Secreto](ruta/a/tu/imagen.png)
