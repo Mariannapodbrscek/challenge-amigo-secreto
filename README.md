@@ -60,11 +60,11 @@ Al momento de ingresar los participantes, te van saliendo alertas de cuántos pa
 
 Puedes reiniciar el juego las veces que quieras en cualquier parte del proceso del sorteo:
 
-![Mi GIF](https://giphy.com/gifs/oracle-challengeamigosecreto-aluralatam-14feZ3xjXVmP5enCcl)
+![Mi GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGx5d2RsYXVlazR1b2NhdDE1cnhtdDdjcnBiZG1hNThwcXY1Z2swZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/14feZ3xjXVmP5enCcl/giphy.gif)
 
 Si intentas presionar el botón 'Adicionar' sin haber escrito un nombre, te aparecerá la alerta: 'Por favor, inserta un nombre:
 
-![Mi GIF](https://giphy.com/gifs/oracle-mariannapodbrscekrocca-challengeamigosecreto-7DR5bnrvwYYjZREtjG) 
+![Mi GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWlpNXk0Y3NuZW83anZvMHMzZngwNWxlY2d6MzhoYjltNzN3ZG8ybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7DR5bnrvwYYjZREtjG/giphy.gif)
 
 
 
