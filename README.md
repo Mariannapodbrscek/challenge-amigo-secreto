@@ -102,7 +102,7 @@ La paleta de colores del proyecto está basada en tonos suaves de de fucsia, nar
 
 ## 📸 **Pantallazos del Proyecto** 
 
-![Image Alt Text](https://imgur.com/jEbgV0C)
+![Image Alt Text] [img]https://i.imgur.com/jEbgV0C.png[/img]
 
 Aquí puedes ver algunas capturas de pantalla del proyecto:  
 ![Mi GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXFsZHcxYzVxaWV6cmZtbW9udXZvNmhkcjEwbHdkYW5hMmNpMmRmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DDjKkrKzyzfnbwKXrc/giphy.gif)
