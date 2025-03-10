@@ -12,7 +12,7 @@
 
 ## 🏷 **Índice**:
 
-- [Descripción del Proyecto](#📖-descripción-del-proyecto)
+- [Descripción del Proyecto](https://github.com/Mariannapodbrscek/challenge-amigo-secreto/blob/main/README.md#-descripci%C3%B3n-del-proyecto)
 - [Estado del Proyecto](#estado-del-proyecto)
 - [Características de la Aplicación y Demostración](#características-de-la-aplicación-y-demostración)
 - [Acceso al Proyecto](#acceso-al-proyecto)
