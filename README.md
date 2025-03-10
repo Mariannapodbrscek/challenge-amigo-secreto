@@ -1,39 +1,6 @@
-# portafolio
+# 🎉 **Challenge Amigo Secreto** 🎉
 
-
-<a href="https://github.com/Mariannapodbrscek/challenge-amigo-secreto">Visualiza mi repositorio</a>
-
-
-# Proyecto Finalizado
-
-¡Bienvenido a mi proyecto! 🎉
-
-Este es el proyecto **finalizado** que he desarrollado con mucho esfuerzo y dedicación. Agradezco tu interés y espero que disfrutes de los resultados.
-
-## Descripción 📖
-
-Este proyecto tiene como objetivo proporcionar una solución innovadora y accesible utilizando tecnologías modernas. El diseño está pensado para ser intuitivo, y los usuarios pueden interactuar fácilmente con los elementos de la página.
-
-## Funcionalidades 🔧
-
-- Diseño responsivo para todos los dispositivos.
-- Interactividad mejorada con botones llamativos y fáciles de usar.
-- Estilo visual limpio, utilizando colores pastel para hacer la experiencia más agradable.
-  
-## Pantallazo 👀
-
-![Pantallazo del Proyecto](https://via.placeholder.com/800x400.png?text=Pantallazo+del+Proyecto)
-
----
-
-## Cómo Ejecutar el Proyecto 🚀
-
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/tuusuario/tu-repositorio.git
-
-
-<h1 align="center">Challenge Amigo Secreto 🎉🎉</h1>
+[Visualiza mi repositorio](https://github.com/Mariannapodbrscek/challenge-amigo-secreto)
 
 ![Amigo Secreto](ruta/a/tu/imagen.png)
 
@@ -43,7 +10,9 @@ Este proyecto tiene como objetivo proporcionar una solución innovadora y accesi
 ![Licencia](https://img.shields.io/badge/licencia-MIT-blue)
 ![Stars del Proyecto](https://img.shields.io/github/stars/mariannapodbrscek/challenge-amigo-secreto?style=social)
 
-## Índice
+---
+
+## 🏷 **Índice**:
 
 - [Descripción del Proyecto](#descripción-del-proyecto)
 - [Estado del Proyecto](#estado-del-proyecto)
@@ -53,33 +22,51 @@ Este proyecto tiene como objetivo proporcionar una solución innovadora y accesi
 - [Personas Contribuyentes](#personas-contribuyentes)
 - [Licencia](#licencia)
 
-## Descripción del Proyecto
+---
 
-Este proyecto es una aplicación web interactiva desarrollada como parte del **Challenge Amigo Secreto** en el curso de *Practicando Lógica de Programación* de Alura Latam y Oracle. Su objetivo es organizar un "Amigo Secreto" de manera sencilla, permitiendo agregar amigos, sortear nombres y eliminar amigos de la lista. La aplicación también incluye sonidos para cada interacción, lo que mejora la experiencia de usuario.
+## 📖 **Descripción del Proyecto**
 
-## Estado del Proyecto
+¡Bienvenidos al **Challenge Amigo Secreto**! Este es un proyecto finalizado que permite organizar de manera interactiva un juego de Amigo Secreto. El diseño está pensado para ser amigable, accesible y con una experiencia visual limpia utilizando colores pastel y elementos modernos.
 
-🚧 Proyecto FINALIZADO 🚧
+---
 
-## Características de la Aplicación y Demostración
+## 🚧 **Estado del Proyecto**
 
-### :hammer: Funcionalidades del Proyecto
+✅ **FINALIZADO** 🎉
 
-- **Agregar Amigos**: Puedes agregar amigos a la lista de participantes para el Amigo Secreto.
-- **Eliminar Amigos**: Elimina amigos de la lista si es necesario.
-- **Sortear Amigo Secreto**: Realiza el sorteo y asigna a cada amigo su destinatario.
-- **Sonidos Interactivos**: Se reproducen sonidos para cada acción (agregar, sortear, reiniciar).
+---
 
-### Demostración Visual
+## 🔧 **Características de la Aplicación**:
 
-Aquí tienes una vista previa de la aplicación en acción:
+### 🛠 **Funcionalidades**:
+
+- **Agregar Amigos**: Los usuarios pueden añadir amigos a la lista de participantes.
+- **Eliminar Amigos**: La opción de eliminar amigos de la lista si es necesario.
+- **Sorteo Automático**: Realiza el sorteo del Amigo Secreto de manera aleatoria.
+- **Sonidos Interactivos**: Se reproducen sonidos en cada acción (agregar, sortear, reiniciar).
+  
+### 🌈 **Demostración Visual**:
 
 ![Demo](ruta/a/demo.gif)
 
-## Acceso al Proyecto
+---
 
-Puedes acceder al código fuente y descargarlo desde este repositorio. Para ejecutarlo en tu máquina local, sigue los siguientes pasos:
+## 🚀 **Acceso al Proyecto**
 
-1. Clona el repositorio en tu máquina local:
+1. **Clona el repositorio**:
    ```bash
    git clone https://github.com/mariannapodbrscek/challenge-amigo-secreto.git
+
+Tecnologías Utilizadas:
+HTML5: Estructura básica de la página.
+CSS3: Estilos modernos con colores pastel y diseño responsivo.
+JavaScript: Lógica interactiva para agregar, eliminar y sortear amigos.
+🤝 Personas Contribuyentes:
+Marianna Podbrscek: Desarrolladora principal.
+📝 Licencia
+Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
+
+🎨 Estética del Proyecto
+La paleta de colores del proyecto está basada en tonos suaves de fucsia, naranja claro, y verde menta, lo que da una sensación fresca y moderna, perfecta para una experiencia de usuario agradable. Los botones son llamativos, con efectos de hover que hacen que interactuar con la aplicación sea más divertido.
+
+👀 Pantallazo del Proyecto:
